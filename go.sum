@@ -1,2 +1,4 @@
 github.com/rizkyharahap/try-go-module v1.1.0 h1:+kyfjEpMPIkPiMVm9Fi+X/xG8oomCiLMD42rv670tLE=
 github.com/rizkyharahap/try-go-module v1.1.0/go.mod h1:fG6ACSy8454c5v2wkb/t0pR5xSX35IoXSaUSyGI2OYg=
+github.com/rizkyharahap/try-go-module/v2 v2.0.0 h1:BRO7oHp9Hy4R5KFOAXLHU4UkbTzCADCmf/sqV7COWLg=
+github.com/rizkyharahap/try-go-module/v2 v2.0.0/go.mod h1:z3HOx5OEkVFkyi6Z4KI8h0/eLY3HuUeNsX9NUKqW2Xc=
